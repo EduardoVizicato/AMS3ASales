@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AMS3ASales.API.Context;
 using AMS3ASales.API.Domain;
+using AMS3ASales.API.Domain.Request;
 
 
 namespace AMS3ASales.API.Controllers
@@ -38,8 +39,15 @@ namespace AMS3ASales.API.Controllers
         }
         
         [HttpPost]
-        public ActionResult Post(Category category) 
-        { 
+        public ActionResult Post(CategoryRequest categoryRequest) 
+        {
+
+            var category = new Category()
+            {
+                Description = categoryRequest.Description,
+                IsActive = true,
+                ImageURL = categoryRequest.ImageURL,
+            };
             _context.Category.Add(category);
             _context.SaveChanges();
             

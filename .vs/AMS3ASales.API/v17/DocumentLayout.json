@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\",
+  "WorkspaceRootPath": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\trabalhos para postar\\apijefao\\ams3asales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +50,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Request\\ProductRequest.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Request\\ProductRequest.cs",
+              "RelativeToolTip": "Domain\\Request\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:04:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Request\\CategoryRequest.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "Domain\\Request\\CategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:52:57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Product.cs",
-              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Product.cs",
               "RelativeToolTip": "Domain\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:53:25.779Z"
             },
@@ -56,22 +88,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAhwBcAAAAPAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:46:31.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Category.cs",
-              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Domain\\Category.cs",
               "RelativeToolTip": "Domain\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,25 +111,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA1wCMAAAAFAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:26:19.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
+              "ToolTip": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:24:02.941Z"
             }
