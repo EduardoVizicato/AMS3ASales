@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMS3ASales.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f48c40c2081beffff86cd095d9e4baca72c3d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e486b0f194a55fcf782790cec9d1c704a5ec15")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMS3ASales.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMS3ASales.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

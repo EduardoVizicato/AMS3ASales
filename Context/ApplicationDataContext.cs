@@ -1,4 +1,5 @@
 ﻿using AMS3ASales.API.Domain;
+using AMS3ASales.API.Domain.Request;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography.X509Certificates;
 

@@ -21,7 +21,7 @@ namespace AMS3ASales.API.Controllers
             _context = context;
         }
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(ProductRequest productRequest)
         {
             return Ok(_context.Category.ToList());
         }
@@ -51,6 +51,23 @@ namespace AMS3ASales.API.Controllers
             _context.Category.Add(category);
             _context.SaveChanges();
             
+            return Ok();
+        }
+        [HttpPut("{id}")]
+        public ActionResult Put(Guid id, [FromBody]CategoryRequest categoryRequest)
+        {
+            var categoryUpdate = _context.Category.FirstOrDefault(x => x.Id == id);
+            categoryUpdate.ImageURL = categoryRequest.ImageURL;
+            categoryUpdate.Description = categoryRequest.Description;
+            _context.SaveChanges();
+            return Ok();
+        }
+        [HttpDelete("{id}")]
+        public ActionResult Delete(Guid id)
+        {
+            var categoryUpdate = _context.Category.FirstOrDefault(x => x.Id == id);
+            categoryUpdate.IsActive = false;
+            _context.SaveChanges();
             return Ok();
         }
     }

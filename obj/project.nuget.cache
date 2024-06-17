@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3EHYI05WuRZQOhW2nVXXJO/g1iWBgefPNDsrMDAfHfyRnV8ehdSX0P//527L2OUY6evz88PeVMEQXkXN6zsAUg==",
+  "dgSpecHash": "LVyT7KTvSwm/h6UGrQCFIqW+5KAoRbGTN9dvKPozJQLEIOlXQo8heCjjCPIewdF54WSN93pPD6N5U7sjyq/UgQ==",
   "success": true,
-  "projectFilePath": "C:\\trabalhos para postar\\APIJEFAO\\AMS3ASales\\AMS3ASales.API.csproj",
+  "projectFilePath": "C:\\trabalhos para postar\\amsSales\\API\\AMS3ASales\\AMS3ASales.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

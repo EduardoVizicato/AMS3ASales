@@ -52,5 +52,25 @@ namespace AMS3ASales.API.Controllers
 
         }
 
+        [HttpPut("{id}")]
+        public ActionResult Put(Guid id ,[FromBody]ProductRequest productRequest) 
+        {
+            var productUpdate = _context.Product.FirstOrDefault(x => x.Id == id);
+            productUpdate.ImageURL = productRequest.ImageURL;
+            productUpdate.Stock = productRequest.Stock;
+            productUpdate.Price = productRequest.Price;
+            productUpdate.Description = productRequest.Description;
+            _context.SaveChanges();
+            return Ok();
+        }
+
+        [HttpDelete("{id}")]
+        public ActionResult Delete (Guid id)
+        {
+            var productUpdate = _context.Product.FirstOrDefault (x => x.Id == id);
+            productUpdate.IsActive = false;
+            _context.SaveChanges();
+            return Ok();
+        }
     }
 }
