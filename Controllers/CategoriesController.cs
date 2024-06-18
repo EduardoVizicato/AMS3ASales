@@ -21,9 +21,10 @@ namespace AMS3ASales.API.Controllers
             _context = context;
         }
         [HttpGet]
-        public IActionResult Get(ProductRequest productRequest)
+        public IActionResult Get()
         {
-            return Ok(_context.Category.ToList());
+            var active = _context.Category.Where(c => c.IsActive).ToList();
+            return Ok(active);
         }
         [HttpGet("{id}")]
         public ActionResult<Category> GetById(Guid id) 

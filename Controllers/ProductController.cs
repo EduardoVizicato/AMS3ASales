@@ -19,7 +19,8 @@ namespace AMS3ASales.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(_context.Product.ToList());
+            var active = _context.Product.Where(c => c.IsActive).ToList();
+            return Ok(active);
         }
 
         [HttpGet("{id}")]
